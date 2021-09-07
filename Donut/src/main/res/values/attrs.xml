@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Donut">
+        <attr name="barWidth" format="dimension"/>
+        <attr name="valueSize" format="dimension"/>
+        <attr name="descriptionSize" format="dimension"/>
+        <attr name="header" format="string"/>
+        <attr name="footer" format="string"/>
+        <attr name="minColor" format="color"/>
+        <attr name="maxColor" format="color"/>
+    </declare-styleable>
+</resources>

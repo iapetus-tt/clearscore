@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Clearscore Tech Test</string>
+    <string name="error">Could not load data: touch here to refresh</string>
+    <string name="creditHeader">Your credit rating is</string>
+    <string name="creditFooter">out of %%M</string>
+</resources>
